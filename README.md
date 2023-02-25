@@ -1,7 +1,7 @@
 # Vue-js-breadcrumb
 Vue breadcrumbs builds on the official vue-router package to provide simple breadcrumbs. This package is backwards compatible to support both Vue 1.x and Vue 2.x, with jest test case.
 
-Create Component :-
+# Create Component :-
 
 <template>
   <div>
@@ -28,7 +28,7 @@ a {
 </style>
 
 
-#The Final Breadcrum.vue component :-
+# The Final Breadcrum.vue component :-
 
 <template>
   <div class="breadcrumb">
